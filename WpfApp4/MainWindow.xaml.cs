@@ -24,5 +24,10 @@ namespace WpfApp4
         {
             InitializeComponent();
         }
+
+        public void ddd()
+        {
+
+        }
     }
 }
