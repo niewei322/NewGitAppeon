@@ -8,6 +8,7 @@ namespace WpfApp4
 {
     class Class1
     {
+        int dss = 0;
     }  
 }
      
