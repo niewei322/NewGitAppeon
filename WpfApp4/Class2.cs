@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace WpfApp4
 {
-    class Class1
+    class Class2
     {
-    }  
+    }
 }
-     
