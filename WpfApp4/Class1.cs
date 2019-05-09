@@ -9,6 +9,7 @@ namespace WpfApp4
     class Class1
     {
         string zhi = "";
+        int s = 0;
     }
 }
      
