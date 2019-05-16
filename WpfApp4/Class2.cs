@@ -8,6 +8,7 @@ namespace WpfApp4
 {
     class Class2
     {
+        string xcf = "";
     }
 }
 xcf
